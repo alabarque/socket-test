@@ -19,7 +19,7 @@ int main(void) {
 
 	char* ipAConectar = "192.168.1.38";
 	int puertoAConectar = 5000;
-	char* rutaArchivo = "/home/utnso/workspace/BibliotecaSockets/nombres.csv";
+	char* rutaArchivo = "/home/utnso/github/socket-test/testBibliotecaSockets/nombres.csv";
 
 	int contadorfs = 1;
 	printf("intentado conectarse al puerto %d\n", puertoAConectar);
